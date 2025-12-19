@@ -1,0 +1,8 @@
+{
+  "name": "Copy of HoopNexus - Elite Basketball Shop",
+  "description": "A premium basketball retail experience featuring high-performance gear, AI-powered equipment matching, and real-time support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
